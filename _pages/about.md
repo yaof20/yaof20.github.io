@@ -16,16 +16,19 @@ My research interests generally lie in deep learning methods on NLP and their ap
 domain. Specifically, I am working on Information Extraction and Information Retrieval on legal documents. My research goal is to extract information and distill knowledge from the large-scale unstructured legal documents and build practical Legal AI applications, reducing the workload for legal professionals and realizing the vision of equal access to justice for all.
 
 ## News
-* [Nov. 2022] Got one paper accepted at AAAI 2023 (**<font color='red'>oral</font>** presentation). See you online!
+* [May. 2023] Got one paper accepted to ACL 2023.
+* [Nov. 2022] Got one paper accepted to AAAI 2023 (**<font color='red'>oral</font>** presentation). See you online!
 * [Sep. 2022] Released [OmniEvent](https://github.com/THU-KEG/OmniEvent/), a powerfull event extraction toolkit. [[a short intro](https://mp.weixin.qq.com/s/dSr7Emg-cVB2uol5CGQIJQ)]
 * [Aug. 2022] The Event Detection track of [CAIL 2022](http://cail.cipsc.org.cn/) is calling for participants.
 * [Feb. 2022] [LEVEN](https://arxiv.org/pdf/2203.08556.pdf), our preliminary outcome of fine-grained information 
 extraction on large-scale legal documents, got accepted to ACL 2022.
 
 ## Publications
-* **Feng Yao**, Jingyuan Zhang, Yating Zhang, Xiaozhong Liu, Changlong Sun, Yun Liu, Weixing Shen. Unsupervised Legal Evidence Retrieval via Contrastive Learning with Approximate Aggregated Positive. *AAAI Conference on Artifical Intelligence (AAAI 2023)* [[pdf]](https://yaof20.github.io/files/aaai2023-ler.pdf) [[code]]() [[poster]](https://yaof20.github.io/files/aaai2023-poster.pdf) **<font color='red'>(oral)</font>**
+* Hao Peng\*, Xiaozhi Wang\*, **Feng Yao\*,** Kaisheng Zeng, Lei Hou, Juanzi Li, Zhiyuan Liu, Weixing Shen: “The Devil is in the Details: On the Pitfalls of Event Extraction Evaluation”, In Proceedings of Findings of the Association for Computational Linguistics (**ACL-Findings**), 2023  [[pdf]](https://yaof20.github.io/files/acl2023-omnievent-preprint.pdf) [[code]](https://github.com/THU-KEG/OmniEvent)
+* Andong Chen*, **Feng Yao\*,** Xinyan Zhao, Yating Zhang, Changlong Sun, Yun Liu, Weixing Shen, Tiejun Zhao: “EQUALS: A Real-World Dataset for Legal Questions Answering via Reading Laws”, In Proceedings of the International Conference on Artificial Intelligence and Law (**ICAIL**), 2023  [[pdf]](https://yaof20.github.io/files/icail2023-lqa-preprint.pdf) [[code]](https://github.com/thunlp/LEVEN)
+* **Feng Yao**, Jingyuan Zhang, Yating Zhang, Xiaozhong Liu, Changlong Sun, Yun Liu, Weixing Shen. Unsupervised Legal Evidence Retrieval via Contrastive Learning with Approximate Aggregated Positive. *AAAI Conference on Artifical Intelligence (**AAAI**)*, 2023 [[pdf]](https://yaof20.github.io/files/aaai2023-ler-preprint.pdf) [[code]]() [[poster]](https://yaof20.github.io/files/aaai2023-poster.pdf) **<font color='red'>(oral)</font>**
 * **Feng Yao**\*, Chaojun Xiao\*, Xiaozhi Wang, Zhiyuan Liu, Lei Hou, Cunchao Tu, Juanzi Li, Yun Liu, Weixing Shen, Maosong Sun. 
-LEVEN: A Large-Scale Chinese Legal Event Detection Dataset. *Findings of the Association for Computational Linguistics (ACL-Findings), 2022.* [[pdf]](https://aclanthology.org/2022.findings-acl.17.pdf) [[code]](https://github.com/thunlp/LEVEN) [[poster]](https://yaof20.github.io/files/acl2022-poster.pdf)
+LEVEN: A Large-Scale Chinese Legal Event Detection Dataset. *Findings of the Association for Computational Linguistics (**ACL-Findings**), 2022.* [[pdf]](https://aclanthology.org/2022.findings-acl.17.pdf) [[code]](https://github.com/thunlp/LEVEN) [[poster]](https://yaof20.github.io/files/acl2022-poster.pdf)
 
 ## Projects
 
